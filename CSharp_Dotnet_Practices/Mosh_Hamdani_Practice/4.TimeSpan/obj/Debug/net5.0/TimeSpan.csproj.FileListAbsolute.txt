@@ -1,0 +1,16 @@
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\4.TimeSpan\obj\Debug\net5.0\TimeSpan.csproj.AssemblyReference.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\4.TimeSpan\obj\Debug\net5.0\TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\4.TimeSpan\obj\Debug\net5.0\TimeSpan.AssemblyInfoInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\4.TimeSpan\obj\Debug\net5.0\TimeSpan.AssemblyInfo.cs
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\4.TimeSpan\obj\Debug\net5.0\TimeSpan.csproj.CoreCompileInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\4.TimeSpan\bin\Debug\net5.0\TimeSpan.exe
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\4.TimeSpan\bin\Debug\net5.0\TimeSpan.deps.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\4.TimeSpan\bin\Debug\net5.0\TimeSpan.runtimeconfig.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\4.TimeSpan\bin\Debug\net5.0\TimeSpan.runtimeconfig.dev.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\4.TimeSpan\bin\Debug\net5.0\TimeSpan.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\4.TimeSpan\bin\Debug\net5.0\ref\TimeSpan.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\4.TimeSpan\bin\Debug\net5.0\TimeSpan.pdb
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\4.TimeSpan\obj\Debug\net5.0\TimeSpan.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\4.TimeSpan\obj\Debug\net5.0\ref\TimeSpan.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\4.TimeSpan\obj\Debug\net5.0\TimeSpan.pdb
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\4.TimeSpan\obj\Debug\net5.0\TimeSpan.genruntimeconfig.cache

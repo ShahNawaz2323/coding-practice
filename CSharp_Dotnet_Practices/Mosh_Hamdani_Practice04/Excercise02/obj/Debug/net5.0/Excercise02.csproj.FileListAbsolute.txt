@@ -1,0 +1,16 @@
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\Excercise02\bin\Debug\net5.0\Excercise02.exe
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\Excercise02\bin\Debug\net5.0\Excercise02.deps.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\Excercise02\bin\Debug\net5.0\Excercise02.runtimeconfig.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\Excercise02\bin\Debug\net5.0\Excercise02.runtimeconfig.dev.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\Excercise02\bin\Debug\net5.0\Excercise02.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\Excercise02\bin\Debug\net5.0\ref\Excercise02.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\Excercise02\bin\Debug\net5.0\Excercise02.pdb
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\Excercise02\obj\Debug\net5.0\Excercise02.csproj.AssemblyReference.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\Excercise02\obj\Debug\net5.0\Excercise02.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\Excercise02\obj\Debug\net5.0\Excercise02.AssemblyInfoInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\Excercise02\obj\Debug\net5.0\Excercise02.AssemblyInfo.cs
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\Excercise02\obj\Debug\net5.0\Excercise02.csproj.CoreCompileInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\Excercise02\obj\Debug\net5.0\Excercise02.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\Excercise02\obj\Debug\net5.0\ref\Excercise02.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\Excercise02\obj\Debug\net5.0\Excercise02.pdb
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\Excercise02\obj\Debug\net5.0\Excercise02.genruntimeconfig.cache

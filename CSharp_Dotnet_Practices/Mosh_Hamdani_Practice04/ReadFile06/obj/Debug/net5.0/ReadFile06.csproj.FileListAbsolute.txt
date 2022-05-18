@@ -1,0 +1,16 @@
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\ReadFile06\obj\Debug\net5.0\ReadFile06.csproj.AssemblyReference.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\ReadFile06\obj\Debug\net5.0\ReadFile06.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\ReadFile06\obj\Debug\net5.0\ReadFile06.AssemblyInfoInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\ReadFile06\obj\Debug\net5.0\ReadFile06.AssemblyInfo.cs
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\ReadFile06\obj\Debug\net5.0\ReadFile06.csproj.CoreCompileInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\ReadFile06\bin\Debug\net5.0\ReadFile06.exe
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\ReadFile06\bin\Debug\net5.0\ReadFile06.deps.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\ReadFile06\bin\Debug\net5.0\ReadFile06.runtimeconfig.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\ReadFile06\bin\Debug\net5.0\ReadFile06.runtimeconfig.dev.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\ReadFile06\bin\Debug\net5.0\ReadFile06.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\ReadFile06\bin\Debug\net5.0\ref\ReadFile06.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\ReadFile06\bin\Debug\net5.0\ReadFile06.pdb
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\ReadFile06\obj\Debug\net5.0\ReadFile06.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\ReadFile06\obj\Debug\net5.0\ref\ReadFile06.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\ReadFile06\obj\Debug\net5.0\ReadFile06.pdb
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice04\ReadFile06\obj\Debug\net5.0\ReadFile06.genruntimeconfig.cache

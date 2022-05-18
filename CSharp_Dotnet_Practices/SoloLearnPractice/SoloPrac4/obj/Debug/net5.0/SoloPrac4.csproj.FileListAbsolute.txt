@@ -1,0 +1,16 @@
+D:\coding practice\CSharp_Dotnet_Practices\SoloLearnPractice\SoloPrac4\bin\Debug\net5.0\SoloPrac4.exe
+D:\coding practice\CSharp_Dotnet_Practices\SoloLearnPractice\SoloPrac4\bin\Debug\net5.0\SoloPrac4.deps.json
+D:\coding practice\CSharp_Dotnet_Practices\SoloLearnPractice\SoloPrac4\bin\Debug\net5.0\SoloPrac4.runtimeconfig.json
+D:\coding practice\CSharp_Dotnet_Practices\SoloLearnPractice\SoloPrac4\bin\Debug\net5.0\SoloPrac4.runtimeconfig.dev.json
+D:\coding practice\CSharp_Dotnet_Practices\SoloLearnPractice\SoloPrac4\bin\Debug\net5.0\SoloPrac4.dll
+D:\coding practice\CSharp_Dotnet_Practices\SoloLearnPractice\SoloPrac4\bin\Debug\net5.0\ref\SoloPrac4.dll
+D:\coding practice\CSharp_Dotnet_Practices\SoloLearnPractice\SoloPrac4\bin\Debug\net5.0\SoloPrac4.pdb
+D:\coding practice\CSharp_Dotnet_Practices\SoloLearnPractice\SoloPrac4\obj\Debug\net5.0\SoloPrac4.csproj.AssemblyReference.cache
+D:\coding practice\CSharp_Dotnet_Practices\SoloLearnPractice\SoloPrac4\obj\Debug\net5.0\SoloPrac4.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\CSharp_Dotnet_Practices\SoloLearnPractice\SoloPrac4\obj\Debug\net5.0\SoloPrac4.AssemblyInfoInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\SoloLearnPractice\SoloPrac4\obj\Debug\net5.0\SoloPrac4.AssemblyInfo.cs
+D:\coding practice\CSharp_Dotnet_Practices\SoloLearnPractice\SoloPrac4\obj\Debug\net5.0\SoloPrac4.csproj.CoreCompileInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\SoloLearnPractice\SoloPrac4\obj\Debug\net5.0\SoloPrac4.dll
+D:\coding practice\CSharp_Dotnet_Practices\SoloLearnPractice\SoloPrac4\obj\Debug\net5.0\ref\SoloPrac4.dll
+D:\coding practice\CSharp_Dotnet_Practices\SoloLearnPractice\SoloPrac4\obj\Debug\net5.0\SoloPrac4.pdb
+D:\coding practice\CSharp_Dotnet_Practices\SoloLearnPractice\SoloPrac4\obj\Debug\net5.0\SoloPrac4.genruntimeconfig.cache

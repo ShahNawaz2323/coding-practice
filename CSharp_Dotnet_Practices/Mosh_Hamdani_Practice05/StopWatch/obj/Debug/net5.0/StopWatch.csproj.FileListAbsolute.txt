@@ -1,0 +1,16 @@
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice05\StopWatch\bin\Debug\net5.0\StopWatch.exe
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice05\StopWatch\bin\Debug\net5.0\StopWatch.deps.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice05\StopWatch\bin\Debug\net5.0\StopWatch.runtimeconfig.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice05\StopWatch\bin\Debug\net5.0\StopWatch.runtimeconfig.dev.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice05\StopWatch\bin\Debug\net5.0\StopWatch.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice05\StopWatch\bin\Debug\net5.0\ref\StopWatch.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice05\StopWatch\bin\Debug\net5.0\StopWatch.pdb
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice05\StopWatch\obj\Debug\net5.0\StopWatch.csproj.AssemblyReference.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice05\StopWatch\obj\Debug\net5.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice05\StopWatch\obj\Debug\net5.0\StopWatch.AssemblyInfoInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice05\StopWatch\obj\Debug\net5.0\StopWatch.AssemblyInfo.cs
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice05\StopWatch\obj\Debug\net5.0\StopWatch.csproj.CoreCompileInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice05\StopWatch\obj\Debug\net5.0\StopWatch.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice05\StopWatch\obj\Debug\net5.0\ref\StopWatch.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice05\StopWatch\obj\Debug\net5.0\StopWatch.pdb
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice05\StopWatch\obj\Debug\net5.0\StopWatch.genruntimeconfig.cache
