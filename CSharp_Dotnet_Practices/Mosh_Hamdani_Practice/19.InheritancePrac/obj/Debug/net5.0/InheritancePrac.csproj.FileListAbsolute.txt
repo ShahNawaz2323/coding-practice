@@ -1,0 +1,16 @@
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\19.InheritancePrac\bin\Debug\net5.0\InheritancePrac.exe
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\19.InheritancePrac\bin\Debug\net5.0\InheritancePrac.deps.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\19.InheritancePrac\bin\Debug\net5.0\InheritancePrac.runtimeconfig.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\19.InheritancePrac\bin\Debug\net5.0\InheritancePrac.runtimeconfig.dev.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\19.InheritancePrac\bin\Debug\net5.0\InheritancePrac.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\19.InheritancePrac\bin\Debug\net5.0\ref\InheritancePrac.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\19.InheritancePrac\bin\Debug\net5.0\InheritancePrac.pdb
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\19.InheritancePrac\obj\Debug\net5.0\InheritancePrac.csproj.AssemblyReference.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\19.InheritancePrac\obj\Debug\net5.0\InheritancePrac.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\19.InheritancePrac\obj\Debug\net5.0\InheritancePrac.AssemblyInfoInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\19.InheritancePrac\obj\Debug\net5.0\InheritancePrac.AssemblyInfo.cs
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\19.InheritancePrac\obj\Debug\net5.0\InheritancePrac.csproj.CoreCompileInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\19.InheritancePrac\obj\Debug\net5.0\InheritancePrac.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\19.InheritancePrac\obj\Debug\net5.0\ref\InheritancePrac.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\19.InheritancePrac\obj\Debug\net5.0\InheritancePrac.pdb
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\19.InheritancePrac\obj\Debug\net5.0\InheritancePrac.genruntimeconfig.cache
