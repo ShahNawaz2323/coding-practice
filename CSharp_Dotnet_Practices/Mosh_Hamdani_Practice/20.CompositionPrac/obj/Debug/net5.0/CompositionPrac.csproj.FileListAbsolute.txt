@@ -1,0 +1,16 @@
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\20.CompositionPrac\obj\Debug\net5.0\CompositionPrac.csproj.AssemblyReference.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\20.CompositionPrac\obj\Debug\net5.0\CompositionPrac.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\20.CompositionPrac\obj\Debug\net5.0\CompositionPrac.AssemblyInfoInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\20.CompositionPrac\obj\Debug\net5.0\CompositionPrac.AssemblyInfo.cs
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\20.CompositionPrac\obj\Debug\net5.0\CompositionPrac.csproj.CoreCompileInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\20.CompositionPrac\bin\Debug\net5.0\CompositionPrac.exe
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\20.CompositionPrac\bin\Debug\net5.0\CompositionPrac.deps.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\20.CompositionPrac\bin\Debug\net5.0\CompositionPrac.runtimeconfig.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\20.CompositionPrac\bin\Debug\net5.0\CompositionPrac.runtimeconfig.dev.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\20.CompositionPrac\bin\Debug\net5.0\CompositionPrac.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\20.CompositionPrac\bin\Debug\net5.0\ref\CompositionPrac.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\20.CompositionPrac\bin\Debug\net5.0\CompositionPrac.pdb
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\20.CompositionPrac\obj\Debug\net5.0\CompositionPrac.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\20.CompositionPrac\obj\Debug\net5.0\ref\CompositionPrac.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\20.CompositionPrac\obj\Debug\net5.0\CompositionPrac.pdb
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\20.CompositionPrac\obj\Debug\net5.0\CompositionPrac.genruntimeconfig.cache
