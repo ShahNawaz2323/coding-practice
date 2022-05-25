@@ -1,0 +1,16 @@
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\22ConstructorInheri\bin\Debug\net5.0\ConstructorInheri.exe
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\22ConstructorInheri\bin\Debug\net5.0\ConstructorInheri.deps.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\22ConstructorInheri\bin\Debug\net5.0\ConstructorInheri.runtimeconfig.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\22ConstructorInheri\bin\Debug\net5.0\ConstructorInheri.runtimeconfig.dev.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\22ConstructorInheri\bin\Debug\net5.0\ConstructorInheri.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\22ConstructorInheri\bin\Debug\net5.0\ref\ConstructorInheri.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\22ConstructorInheri\bin\Debug\net5.0\ConstructorInheri.pdb
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\22ConstructorInheri\obj\Debug\net5.0\ConstructorInheri.csproj.AssemblyReference.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\22ConstructorInheri\obj\Debug\net5.0\ConstructorInheri.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\22ConstructorInheri\obj\Debug\net5.0\ConstructorInheri.AssemblyInfoInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\22ConstructorInheri\obj\Debug\net5.0\ConstructorInheri.AssemblyInfo.cs
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\22ConstructorInheri\obj\Debug\net5.0\ConstructorInheri.csproj.CoreCompileInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\22ConstructorInheri\obj\Debug\net5.0\ConstructorInheri.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\22ConstructorInheri\obj\Debug\net5.0\ref\ConstructorInheri.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\22ConstructorInheri\obj\Debug\net5.0\ConstructorInheri.pdb
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\22ConstructorInheri\obj\Debug\net5.0\ConstructorInheri.genruntimeconfig.cache
