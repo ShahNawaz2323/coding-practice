@@ -39,8 +39,9 @@
     position: relative;
 }
 
-ul{
+#navbar ul{
     display: flex;
+    font-family: 'Baloo Da 2', cursive;
 }
 
 #navbar ul li{
@@ -85,15 +86,26 @@ ul{
 #home h1{
     color: white;
     text-align: center;
+    font-family: 'Bree Serif', serif;
 }
 
 #home p{
     color: white;
     text-align: center;
     font-size: 1.5;
+    font-family: 'Bree Serif', serif;
 }
 /* Utility Classes */
-#hprimary{
+.h-primary{
     font-size: 2.8rem;
     padding: 12px;
+}
+.btn{
+    padding: 6px 20px;
+    border: 2px solid white;
+    background-color: brown;
+    color: white;
+    margin: 17px;
+    font-size: 1.3rem;
+    border-radius: 19px;
 }
