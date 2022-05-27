@@ -95,9 +95,28 @@
     font-size: 1.5;
     font-family: 'Bree Serif', serif;
 }
+
+/* Services Section */
+#services{
+    margin: 20;
+    display: flex;
+}
+#services .box{
+    border: 2px solid brown;
+}
+#services .box img{
+    height: 100px;
+}
+#services{}
+
 /* Utility Classes */
 .h-primary{
     font-size: 2.8rem;
+    padding: 12px;
+}
+
+.h-secondary{
+    font-size: 2rem;
     padding: 12px;
 }
 .btn{
@@ -109,4 +128,8 @@
     font-size: 1.3rem;
     border-radius: 19px;
     cursor: pointer;
+}
+
+.center{
+    text-align: center;
 }
