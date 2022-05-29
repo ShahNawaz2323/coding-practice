@@ -117,7 +117,21 @@
     display: block;
 }
 
+#services .box p{
+    /* font-size: 2.3rem; */
+    font-family: 'Bree Serif', serif;
+}
 
+/* Clients Section */
+#client-section{
+    height: 100px;
+    
+}
+#client{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
 /* Utility Classes */
 .h-primary{
     font-size: 2.8rem;
@@ -126,7 +140,7 @@
 }
 
 .h-secondary{
-    font-size: 2rem;
+    font-size: 1.5rem;
     padding: 12px;
     font-family: 'Bree Serif', serif;
 }
