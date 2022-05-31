@@ -1,0 +1,16 @@
+D:\coding practice\Csharp_Code_Practice\5.typeCasting\bin\Debug\net5.0\typeCasting.exe
+D:\coding practice\Csharp_Code_Practice\5.typeCasting\bin\Debug\net5.0\typeCasting.deps.json
+D:\coding practice\Csharp_Code_Practice\5.typeCasting\bin\Debug\net5.0\typeCasting.runtimeconfig.json
+D:\coding practice\Csharp_Code_Practice\5.typeCasting\bin\Debug\net5.0\typeCasting.runtimeconfig.dev.json
+D:\coding practice\Csharp_Code_Practice\5.typeCasting\bin\Debug\net5.0\typeCasting.dll
+D:\coding practice\Csharp_Code_Practice\5.typeCasting\bin\Debug\net5.0\typeCasting.pdb
+D:\coding practice\Csharp_Code_Practice\5.typeCasting\obj\Debug\net5.0\typeCasting.csproj.AssemblyReference.cache
+D:\coding practice\Csharp_Code_Practice\5.typeCasting\obj\Debug\net5.0\typeCasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\Csharp_Code_Practice\5.typeCasting\obj\Debug\net5.0\typeCasting.AssemblyInfoInputs.cache
+D:\coding practice\Csharp_Code_Practice\5.typeCasting\obj\Debug\net5.0\typeCasting.AssemblyInfo.cs
+D:\coding practice\Csharp_Code_Practice\5.typeCasting\obj\Debug\net5.0\typeCasting.csproj.CoreCompileInputs.cache
+D:\coding practice\Csharp_Code_Practice\5.typeCasting\obj\Debug\net5.0\typeCasting.dll
+D:\coding practice\Csharp_Code_Practice\5.typeCasting\obj\Debug\net5.0\refint\typeCasting.dll
+D:\coding practice\Csharp_Code_Practice\5.typeCasting\obj\Debug\net5.0\typeCasting.pdb
+D:\coding practice\Csharp_Code_Practice\5.typeCasting\obj\Debug\net5.0\typeCasting.genruntimeconfig.cache
+D:\coding practice\Csharp_Code_Practice\5.typeCasting\obj\Debug\net5.0\ref\typeCasting.dll
