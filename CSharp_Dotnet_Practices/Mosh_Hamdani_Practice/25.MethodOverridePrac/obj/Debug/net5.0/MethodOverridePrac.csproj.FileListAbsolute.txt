@@ -1,0 +1,16 @@
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\25.MethodOverridePrac\bin\Debug\net5.0\MethodOverridePrac.exe
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\25.MethodOverridePrac\bin\Debug\net5.0\MethodOverridePrac.deps.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\25.MethodOverridePrac\bin\Debug\net5.0\MethodOverridePrac.runtimeconfig.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\25.MethodOverridePrac\bin\Debug\net5.0\MethodOverridePrac.runtimeconfig.dev.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\25.MethodOverridePrac\bin\Debug\net5.0\MethodOverridePrac.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\25.MethodOverridePrac\bin\Debug\net5.0\MethodOverridePrac.pdb
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\25.MethodOverridePrac\obj\Debug\net5.0\MethodOverridePrac.csproj.AssemblyReference.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\25.MethodOverridePrac\obj\Debug\net5.0\MethodOverridePrac.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\25.MethodOverridePrac\obj\Debug\net5.0\MethodOverridePrac.AssemblyInfoInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\25.MethodOverridePrac\obj\Debug\net5.0\MethodOverridePrac.AssemblyInfo.cs
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\25.MethodOverridePrac\obj\Debug\net5.0\MethodOverridePrac.csproj.CoreCompileInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\25.MethodOverridePrac\obj\Debug\net5.0\MethodOverridePrac.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\25.MethodOverridePrac\obj\Debug\net5.0\refint\MethodOverridePrac.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\25.MethodOverridePrac\obj\Debug\net5.0\MethodOverridePrac.pdb
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\25.MethodOverridePrac\obj\Debug\net5.0\MethodOverridePrac.genruntimeconfig.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\25.MethodOverridePrac\obj\Debug\net5.0\ref\MethodOverridePrac.dll
