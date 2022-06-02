@@ -1,0 +1,16 @@
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\26.AbstractPrac\bin\Debug\net5.0\AbstractPrac.exe
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\26.AbstractPrac\bin\Debug\net5.0\AbstractPrac.deps.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\26.AbstractPrac\bin\Debug\net5.0\AbstractPrac.runtimeconfig.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\26.AbstractPrac\bin\Debug\net5.0\AbstractPrac.runtimeconfig.dev.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\26.AbstractPrac\bin\Debug\net5.0\AbstractPrac.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\26.AbstractPrac\bin\Debug\net5.0\AbstractPrac.pdb
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\26.AbstractPrac\obj\Debug\net5.0\AbstractPrac.csproj.AssemblyReference.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\26.AbstractPrac\obj\Debug\net5.0\AbstractPrac.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\26.AbstractPrac\obj\Debug\net5.0\AbstractPrac.AssemblyInfoInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\26.AbstractPrac\obj\Debug\net5.0\AbstractPrac.AssemblyInfo.cs
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\26.AbstractPrac\obj\Debug\net5.0\AbstractPrac.csproj.CoreCompileInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\26.AbstractPrac\obj\Debug\net5.0\AbstractPrac.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\26.AbstractPrac\obj\Debug\net5.0\refint\AbstractPrac.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\26.AbstractPrac\obj\Debug\net5.0\AbstractPrac.pdb
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\26.AbstractPrac\obj\Debug\net5.0\AbstractPrac.genruntimeconfig.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice\26.AbstractPrac\obj\Debug\net5.0\ref\AbstractPrac.dll
