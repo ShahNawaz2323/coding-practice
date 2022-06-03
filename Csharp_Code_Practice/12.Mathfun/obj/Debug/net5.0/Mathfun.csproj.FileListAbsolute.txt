@@ -1,0 +1,16 @@
+D:\coding practice\Csharp_Code_Practice\12.Mathfun\bin\Debug\net5.0\Mathfun.exe
+D:\coding practice\Csharp_Code_Practice\12.Mathfun\bin\Debug\net5.0\Mathfun.deps.json
+D:\coding practice\Csharp_Code_Practice\12.Mathfun\bin\Debug\net5.0\Mathfun.runtimeconfig.json
+D:\coding practice\Csharp_Code_Practice\12.Mathfun\bin\Debug\net5.0\Mathfun.runtimeconfig.dev.json
+D:\coding practice\Csharp_Code_Practice\12.Mathfun\bin\Debug\net5.0\Mathfun.dll
+D:\coding practice\Csharp_Code_Practice\12.Mathfun\bin\Debug\net5.0\Mathfun.pdb
+D:\coding practice\Csharp_Code_Practice\12.Mathfun\obj\Debug\net5.0\Mathfun.csproj.AssemblyReference.cache
+D:\coding practice\Csharp_Code_Practice\12.Mathfun\obj\Debug\net5.0\Mathfun.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\Csharp_Code_Practice\12.Mathfun\obj\Debug\net5.0\Mathfun.AssemblyInfoInputs.cache
+D:\coding practice\Csharp_Code_Practice\12.Mathfun\obj\Debug\net5.0\Mathfun.AssemblyInfo.cs
+D:\coding practice\Csharp_Code_Practice\12.Mathfun\obj\Debug\net5.0\Mathfun.csproj.CoreCompileInputs.cache
+D:\coding practice\Csharp_Code_Practice\12.Mathfun\obj\Debug\net5.0\Mathfun.dll
+D:\coding practice\Csharp_Code_Practice\12.Mathfun\obj\Debug\net5.0\refint\Mathfun.dll
+D:\coding practice\Csharp_Code_Practice\12.Mathfun\obj\Debug\net5.0\Mathfun.pdb
+D:\coding practice\Csharp_Code_Practice\12.Mathfun\obj\Debug\net5.0\Mathfun.genruntimeconfig.cache
+D:\coding practice\Csharp_Code_Practice\12.Mathfun\obj\Debug\net5.0\ref\Mathfun.dll
