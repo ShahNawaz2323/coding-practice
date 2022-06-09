@@ -1,0 +1,16 @@
+D:\coding practice\Csharp_Code_Practice\23.ArraysPrac\bin\Debug\net5.0\Arrays.exe
+D:\coding practice\Csharp_Code_Practice\23.ArraysPrac\bin\Debug\net5.0\Arrays.deps.json
+D:\coding practice\Csharp_Code_Practice\23.ArraysPrac\bin\Debug\net5.0\Arrays.runtimeconfig.json
+D:\coding practice\Csharp_Code_Practice\23.ArraysPrac\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+D:\coding practice\Csharp_Code_Practice\23.ArraysPrac\bin\Debug\net5.0\Arrays.dll
+D:\coding practice\Csharp_Code_Practice\23.ArraysPrac\bin\Debug\net5.0\Arrays.pdb
+D:\coding practice\Csharp_Code_Practice\23.ArraysPrac\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
+D:\coding practice\Csharp_Code_Practice\23.ArraysPrac\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\Csharp_Code_Practice\23.ArraysPrac\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+D:\coding practice\Csharp_Code_Practice\23.ArraysPrac\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+D:\coding practice\Csharp_Code_Practice\23.ArraysPrac\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+D:\coding practice\Csharp_Code_Practice\23.ArraysPrac\obj\Debug\net5.0\Arrays.dll
+D:\coding practice\Csharp_Code_Practice\23.ArraysPrac\obj\Debug\net5.0\refint\Arrays.dll
+D:\coding practice\Csharp_Code_Practice\23.ArraysPrac\obj\Debug\net5.0\Arrays.pdb
+D:\coding practice\Csharp_Code_Practice\23.ArraysPrac\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
+D:\coding practice\Csharp_Code_Practice\23.ArraysPrac\obj\Debug\net5.0\ref\Arrays.dll
