@@ -1,0 +1,16 @@
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamadani_Practice08\InterfacesPloy\bin\Debug\net5.0\InterfacesPloy.exe
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamadani_Practice08\InterfacesPloy\bin\Debug\net5.0\InterfacesPloy.deps.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamadani_Practice08\InterfacesPloy\bin\Debug\net5.0\InterfacesPloy.runtimeconfig.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamadani_Practice08\InterfacesPloy\bin\Debug\net5.0\InterfacesPloy.runtimeconfig.dev.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamadani_Practice08\InterfacesPloy\bin\Debug\net5.0\InterfacesPloy.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamadani_Practice08\InterfacesPloy\bin\Debug\net5.0\InterfacesPloy.pdb
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamadani_Practice08\InterfacesPloy\obj\Debug\net5.0\InterfacesPloy.csproj.AssemblyReference.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamadani_Practice08\InterfacesPloy\obj\Debug\net5.0\InterfacesPloy.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamadani_Practice08\InterfacesPloy\obj\Debug\net5.0\InterfacesPloy.AssemblyInfoInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamadani_Practice08\InterfacesPloy\obj\Debug\net5.0\InterfacesPloy.AssemblyInfo.cs
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamadani_Practice08\InterfacesPloy\obj\Debug\net5.0\InterfacesPloy.csproj.CoreCompileInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamadani_Practice08\InterfacesPloy\obj\Debug\net5.0\InterfacesPloy.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamadani_Practice08\InterfacesPloy\obj\Debug\net5.0\refint\InterfacesPloy.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamadani_Practice08\InterfacesPloy\obj\Debug\net5.0\InterfacesPloy.pdb
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamadani_Practice08\InterfacesPloy\obj\Debug\net5.0\InterfacesPloy.genruntimeconfig.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamadani_Practice08\InterfacesPloy\obj\Debug\net5.0\ref\InterfacesPloy.dll
