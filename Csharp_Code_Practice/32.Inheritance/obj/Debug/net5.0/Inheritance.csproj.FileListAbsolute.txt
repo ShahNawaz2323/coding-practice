@@ -1,0 +1,16 @@
+D:\coding practice\Csharp_Code_Practice\32.Inheritance\bin\Debug\net5.0\Inheritance.exe
+D:\coding practice\Csharp_Code_Practice\32.Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+D:\coding practice\Csharp_Code_Practice\32.Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+D:\coding practice\Csharp_Code_Practice\32.Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+D:\coding practice\Csharp_Code_Practice\32.Inheritance\bin\Debug\net5.0\Inheritance.dll
+D:\coding practice\Csharp_Code_Practice\32.Inheritance\bin\Debug\net5.0\Inheritance.pdb
+D:\coding practice\Csharp_Code_Practice\32.Inheritance\obj\Debug\net5.0\Inheritance.csproj.AssemblyReference.cache
+D:\coding practice\Csharp_Code_Practice\32.Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\Csharp_Code_Practice\32.Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+D:\coding practice\Csharp_Code_Practice\32.Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+D:\coding practice\Csharp_Code_Practice\32.Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\coding practice\Csharp_Code_Practice\32.Inheritance\obj\Debug\net5.0\Inheritance.dll
+D:\coding practice\Csharp_Code_Practice\32.Inheritance\obj\Debug\net5.0\refint\Inheritance.dll
+D:\coding practice\Csharp_Code_Practice\32.Inheritance\obj\Debug\net5.0\Inheritance.pdb
+D:\coding practice\Csharp_Code_Practice\32.Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache
+D:\coding practice\Csharp_Code_Practice\32.Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
