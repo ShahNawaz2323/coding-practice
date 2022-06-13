@@ -1,0 +1,5 @@
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice10\obj\Debug\net5.0\Mosh_Hamdani_Practice10.csproj.AssemblyReference.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice10\obj\Debug\net5.0\Mosh_Hamdani_Practice10.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice10\obj\Debug\net5.0\Mosh_Hamdani_Practice10.AssemblyInfoInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice10\obj\Debug\net5.0\Mosh_Hamdani_Practice10.AssemblyInfo.cs
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice10\obj\Debug\net5.0\Mosh_Hamdani_Practice10.csproj.CoreCompileInputs.cache
