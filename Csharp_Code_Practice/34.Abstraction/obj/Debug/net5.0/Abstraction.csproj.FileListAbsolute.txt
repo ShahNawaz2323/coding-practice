@@ -1,0 +1,16 @@
+D:\coding practice\Csharp_Code_Practice\34.Abstraction\obj\Debug\net5.0\Abstraction.csproj.AssemblyReference.cache
+D:\coding practice\Csharp_Code_Practice\34.Abstraction\obj\Debug\net5.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\Csharp_Code_Practice\34.Abstraction\obj\Debug\net5.0\Abstraction.AssemblyInfoInputs.cache
+D:\coding practice\Csharp_Code_Practice\34.Abstraction\obj\Debug\net5.0\Abstraction.AssemblyInfo.cs
+D:\coding practice\Csharp_Code_Practice\34.Abstraction\obj\Debug\net5.0\Abstraction.csproj.CoreCompileInputs.cache
+D:\coding practice\Csharp_Code_Practice\34.Abstraction\bin\Debug\net5.0\Abstraction.exe
+D:\coding practice\Csharp_Code_Practice\34.Abstraction\bin\Debug\net5.0\Abstraction.deps.json
+D:\coding practice\Csharp_Code_Practice\34.Abstraction\bin\Debug\net5.0\Abstraction.runtimeconfig.json
+D:\coding practice\Csharp_Code_Practice\34.Abstraction\bin\Debug\net5.0\Abstraction.runtimeconfig.dev.json
+D:\coding practice\Csharp_Code_Practice\34.Abstraction\bin\Debug\net5.0\Abstraction.dll
+D:\coding practice\Csharp_Code_Practice\34.Abstraction\bin\Debug\net5.0\Abstraction.pdb
+D:\coding practice\Csharp_Code_Practice\34.Abstraction\obj\Debug\net5.0\Abstraction.dll
+D:\coding practice\Csharp_Code_Practice\34.Abstraction\obj\Debug\net5.0\refint\Abstraction.dll
+D:\coding practice\Csharp_Code_Practice\34.Abstraction\obj\Debug\net5.0\Abstraction.pdb
+D:\coding practice\Csharp_Code_Practice\34.Abstraction\obj\Debug\net5.0\Abstraction.genruntimeconfig.cache
+D:\coding practice\Csharp_Code_Practice\34.Abstraction\obj\Debug\net5.0\ref\Abstraction.dll

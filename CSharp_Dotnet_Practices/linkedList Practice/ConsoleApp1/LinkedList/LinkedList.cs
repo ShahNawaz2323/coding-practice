@@ -11,6 +11,7 @@ namespace ConsoleApp1.LinkedList
     {
         //start node of te linked list chain
         Node head = null;
+        Node tail = null; 
 
         public void AddLast(object data)
         {
@@ -24,11 +25,13 @@ namespace ConsoleApp1.LinkedList
             else
             {
                 Node current = head;
+                //head = tail
                 //loop and find the last node
                 while (current.Next != null)
                 {
                     current = current.Next;
                 }
+                //Console.WriteLine(tail);
                 //null this means this is the last element or last node
                 current.Next = newItem;
                 newItem.Next = null;
@@ -44,14 +47,14 @@ namespace ConsoleApp1.LinkedList
         }
         public void ReadAll()
         {
-            Node current = head;
+            Node current = head; 
             //loop until the last node
             while (current.Next != null)
             {
                 Console.WriteLine(current.data);
                 current = current.Next;
             }
-            Console.WriteLine(current.data);
+            Console.WriteLine(current.data);  
         }
     }
 }
