@@ -1,0 +1,16 @@
+D:\coding practice\Csharp_Code_Practice\41.ExceptionPrac\bin\Debug\net5.0\ExceptionPrac.exe
+D:\coding practice\Csharp_Code_Practice\41.ExceptionPrac\bin\Debug\net5.0\ExceptionPrac.deps.json
+D:\coding practice\Csharp_Code_Practice\41.ExceptionPrac\bin\Debug\net5.0\ExceptionPrac.runtimeconfig.json
+D:\coding practice\Csharp_Code_Practice\41.ExceptionPrac\bin\Debug\net5.0\ExceptionPrac.runtimeconfig.dev.json
+D:\coding practice\Csharp_Code_Practice\41.ExceptionPrac\bin\Debug\net5.0\ExceptionPrac.dll
+D:\coding practice\Csharp_Code_Practice\41.ExceptionPrac\bin\Debug\net5.0\ExceptionPrac.pdb
+D:\coding practice\Csharp_Code_Practice\41.ExceptionPrac\obj\Debug\net5.0\ExceptionPrac.csproj.AssemblyReference.cache
+D:\coding practice\Csharp_Code_Practice\41.ExceptionPrac\obj\Debug\net5.0\ExceptionPrac.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\Csharp_Code_Practice\41.ExceptionPrac\obj\Debug\net5.0\ExceptionPrac.AssemblyInfoInputs.cache
+D:\coding practice\Csharp_Code_Practice\41.ExceptionPrac\obj\Debug\net5.0\ExceptionPrac.AssemblyInfo.cs
+D:\coding practice\Csharp_Code_Practice\41.ExceptionPrac\obj\Debug\net5.0\ExceptionPrac.csproj.CoreCompileInputs.cache
+D:\coding practice\Csharp_Code_Practice\41.ExceptionPrac\obj\Debug\net5.0\ExceptionPrac.dll
+D:\coding practice\Csharp_Code_Practice\41.ExceptionPrac\obj\Debug\net5.0\refint\ExceptionPrac.dll
+D:\coding practice\Csharp_Code_Practice\41.ExceptionPrac\obj\Debug\net5.0\ExceptionPrac.pdb
+D:\coding practice\Csharp_Code_Practice\41.ExceptionPrac\obj\Debug\net5.0\ExceptionPrac.genruntimeconfig.cache
+D:\coding practice\Csharp_Code_Practice\41.ExceptionPrac\obj\Debug\net5.0\ref\ExceptionPrac.dll
