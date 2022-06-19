@@ -8,7 +8,7 @@ namespace Basic
         {
             Console.WriteLine("Write a C# program to rotate an array (length 3) of integers in left direction.");
             int[] nums = {1,2,3};
-            int[] result = new int[nums.length];
+            int[] result = new int[nums.Length];
             for (int i = 2; i <= 0 ; i--)
             {
                 result[i] += nums[i];

@@ -14,7 +14,7 @@ namespace ExceptionPrac
             }
             catch (Exception e)
             {
-                Console.WriteLine("Something went wrong.");
+                Console.WriteLine(e);
             }
             finally
             {
