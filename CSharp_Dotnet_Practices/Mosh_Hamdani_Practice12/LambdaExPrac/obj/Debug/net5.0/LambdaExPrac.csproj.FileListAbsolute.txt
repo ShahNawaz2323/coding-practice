@@ -1,0 +1,16 @@
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice12\LambdaExPrac\bin\Debug\net5.0\LambdaExPrac.exe
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice12\LambdaExPrac\bin\Debug\net5.0\LambdaExPrac.deps.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice12\LambdaExPrac\bin\Debug\net5.0\LambdaExPrac.runtimeconfig.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice12\LambdaExPrac\bin\Debug\net5.0\LambdaExPrac.runtimeconfig.dev.json
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice12\LambdaExPrac\bin\Debug\net5.0\LambdaExPrac.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice12\LambdaExPrac\bin\Debug\net5.0\LambdaExPrac.pdb
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice12\LambdaExPrac\obj\Debug\net5.0\LambdaExPrac.csproj.AssemblyReference.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice12\LambdaExPrac\obj\Debug\net5.0\LambdaExPrac.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice12\LambdaExPrac\obj\Debug\net5.0\LambdaExPrac.AssemblyInfoInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice12\LambdaExPrac\obj\Debug\net5.0\LambdaExPrac.AssemblyInfo.cs
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice12\LambdaExPrac\obj\Debug\net5.0\LambdaExPrac.csproj.CoreCompileInputs.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice12\LambdaExPrac\obj\Debug\net5.0\LambdaExPrac.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice12\LambdaExPrac\obj\Debug\net5.0\refint\LambdaExPrac.dll
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice12\LambdaExPrac\obj\Debug\net5.0\LambdaExPrac.pdb
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice12\LambdaExPrac\obj\Debug\net5.0\LambdaExPrac.genruntimeconfig.cache
+D:\coding practice\CSharp_Dotnet_Practices\Mosh_Hamdani_Practice12\LambdaExPrac\obj\Debug\net5.0\ref\LambdaExPrac.dll
