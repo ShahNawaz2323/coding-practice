@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\coding practice\\Csharp_Code_Practice\\2.CSharp_DataTypes\\DataTypes\\DataTypes.csproj",
+      "projectUniqueName": "D:\\coding practice\\Csharp_Code_Practice\\2.CSharp_DataTypes\\1.DataTypes\\DataTypes.csproj",
       "projectName": "DataTypes",
-      "projectPath": "D:\\coding practice\\Csharp_Code_Practice\\2.CSharp_DataTypes\\DataTypes\\DataTypes.csproj",
+      "projectPath": "D:\\coding practice\\Csharp_Code_Practice\\2.CSharp_DataTypes\\1.DataTypes\\DataTypes.csproj",
       "packagesPath": "C:\\Users\\shahn\\.nuget\\packages\\",
-      "outputPath": "D:\\coding practice\\Csharp_Code_Practice\\2.CSharp_DataTypes\\DataTypes\\obj\\",
+      "outputPath": "D:\\coding practice\\Csharp_Code_Practice\\2.CSharp_DataTypes\\1.DataTypes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shahn\\AppData\\Roaming\\NuGet\\NuGet.Config",
