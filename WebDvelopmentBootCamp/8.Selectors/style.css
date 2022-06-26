@@ -1,0 +1,15 @@
+/* External CSS*/
+#para1{
+    color: rgba(21, 250, 155, 0.733);
+    background-color: rgb(204, 188, 196);
+}
+
+#para2{
+    background-color: skyblue;
+    color: blue;
+}
+
+footer,span{
+    background-color: blue;
+    color: red;
+}
