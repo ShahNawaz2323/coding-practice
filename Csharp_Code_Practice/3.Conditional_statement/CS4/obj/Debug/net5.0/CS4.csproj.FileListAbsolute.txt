@@ -1,0 +1,16 @@
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS4\bin\Debug\net5.0\CS4.exe
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS4\bin\Debug\net5.0\CS4.deps.json
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS4\bin\Debug\net5.0\CS4.runtimeconfig.json
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS4\bin\Debug\net5.0\CS4.runtimeconfig.dev.json
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS4\bin\Debug\net5.0\CS4.dll
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS4\bin\Debug\net5.0\CS4.pdb
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS4\obj\Debug\net5.0\CS4.csproj.AssemblyReference.cache
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS4\obj\Debug\net5.0\CS4.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS4\obj\Debug\net5.0\CS4.AssemblyInfoInputs.cache
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS4\obj\Debug\net5.0\CS4.AssemblyInfo.cs
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS4\obj\Debug\net5.0\CS4.csproj.CoreCompileInputs.cache
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS4\obj\Debug\net5.0\CS4.dll
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS4\obj\Debug\net5.0\refint\CS4.dll
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS4\obj\Debug\net5.0\CS4.pdb
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS4\obj\Debug\net5.0\CS4.genruntimeconfig.cache
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS4\obj\Debug\net5.0\ref\CS4.dll
