@@ -7,7 +7,7 @@ namespace CS4
         static void Main(string[] args)
         {
             Console.WriteLine("\n *****Write a C# Sharp program to find the eligibility of admission for a professional course*****\n");
-            int Math, Phy, Chem, Total;
+            int Math, Phy, Chem;
 
             Console.Write("Eligibility Criteria :\n");
             Console.Write("Marks in Maths >=65\n");
