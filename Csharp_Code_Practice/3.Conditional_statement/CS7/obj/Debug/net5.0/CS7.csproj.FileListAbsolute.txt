@@ -1,0 +1,16 @@
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS7\bin\Debug\net5.0\CS7.exe
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS7\bin\Debug\net5.0\CS7.deps.json
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS7\bin\Debug\net5.0\CS7.runtimeconfig.json
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS7\bin\Debug\net5.0\CS7.runtimeconfig.dev.json
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS7\bin\Debug\net5.0\CS7.dll
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS7\bin\Debug\net5.0\CS7.pdb
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS7\obj\Debug\net5.0\CS7.csproj.AssemblyReference.cache
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS7\obj\Debug\net5.0\CS7.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS7\obj\Debug\net5.0\CS7.AssemblyInfoInputs.cache
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS7\obj\Debug\net5.0\CS7.AssemblyInfo.cs
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS7\obj\Debug\net5.0\CS7.csproj.CoreCompileInputs.cache
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS7\obj\Debug\net5.0\CS7.dll
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS7\obj\Debug\net5.0\refint\CS7.dll
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS7\obj\Debug\net5.0\CS7.pdb
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS7\obj\Debug\net5.0\CS7.genruntimeconfig.cache
+D:\coding practice\Csharp_Code_Practice\3.Conditional_statement\CS7\obj\Debug\net5.0\ref\CS7.dll
