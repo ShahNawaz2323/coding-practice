@@ -4,9 +4,74 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GYM | WEB</title>
+    <title>GYM | Fitness | WEB</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        /*CSS Reset */
+        body{
+            color: white;
+            margin: 0px;
+            padding: 0px;
+            background: url('img/bg.jpg');
+            /* height: 1080px; */
+        }
+        .left{
+            position: absolute;
+            left: 20px;
+            top: 10px;
+            display: inline-block;
+            border: 2px solid red;
+        }
+        .mid{
+            display: block;
+            width: 33%;
+            margin: 10px auto;
+            border: 2px solid green;
+        }
+        .right{
+            position: absolute;
+            right: 20px;
+            top: 10px;
+            display: inline-block;
+            border: 2px solid yellow;
+        }
+        .navbar{
+            display: inline-block;
+        }
+        .navbar li {
+            display: inline-block;
+            font-size: 15px;
+        }
+        .navbar li a{
+            color: white;
+            text-decoration: none;
+            padding: 20px 10px;
+        }
+    </style>
 </head>
 <body>
-    
+    <header class="header">
+
+        <!-- Left box for logo -->
+        <div class="left">
+            i'm the left.
+        </div>
+        
+        <!-- Mid box for navbar -->
+        <div class="mid">
+            <ul class="navbar">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Fitness Calculator</a></li>
+                <li><a href="#">Contact Us</a></li>
+            </ul>
+        </div>
+       
+        <!-- Right box for button -->
+        <div class="right"> 
+            I'm the Right.
+        </div>
+
+    </header>
 </body>
 </html>
