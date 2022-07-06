@@ -9,7 +9,7 @@ namespace CS8
     {
         public void Grade()
         {
-            string notes;
+            // string notes;
             char grd;
             Console.Write("\n\n");
             Console.Write("Accept a grade and display equivalent description:\n");
