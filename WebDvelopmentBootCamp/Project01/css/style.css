@@ -12,7 +12,7 @@ body{
     left: 20px;
     top: 2px;
     display: inline-block;
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 .left img{
     width: 100px;
@@ -27,14 +27,14 @@ body{
     display: block;
     width: 33%;
     margin: 10px auto;
-    border: 2px solid green;
+    /* border: 2px solid green; */
 }
 .right{
     position: absolute;
     right: 20px;
     top: 10px;
     display: inline-block;
-    border: 2px solid yellow;
+    /* border: 2px solid yellow; */
 }
 .navbar{
     display: inline-block;
