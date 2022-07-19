@@ -1,0 +1,16 @@
+D:\coding practice\Csharp_Code_Practice\4.Sorting_And_Arrays\Array03\bin\Debug\net5.0\Array03.exe
+D:\coding practice\Csharp_Code_Practice\4.Sorting_And_Arrays\Array03\bin\Debug\net5.0\Array03.deps.json
+D:\coding practice\Csharp_Code_Practice\4.Sorting_And_Arrays\Array03\bin\Debug\net5.0\Array03.runtimeconfig.json
+D:\coding practice\Csharp_Code_Practice\4.Sorting_And_Arrays\Array03\bin\Debug\net5.0\Array03.runtimeconfig.dev.json
+D:\coding practice\Csharp_Code_Practice\4.Sorting_And_Arrays\Array03\bin\Debug\net5.0\Array03.dll
+D:\coding practice\Csharp_Code_Practice\4.Sorting_And_Arrays\Array03\bin\Debug\net5.0\Array03.pdb
+D:\coding practice\Csharp_Code_Practice\4.Sorting_And_Arrays\Array03\obj\Debug\net5.0\Array03.csproj.AssemblyReference.cache
+D:\coding practice\Csharp_Code_Practice\4.Sorting_And_Arrays\Array03\obj\Debug\net5.0\Array03.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\Csharp_Code_Practice\4.Sorting_And_Arrays\Array03\obj\Debug\net5.0\Array03.AssemblyInfoInputs.cache
+D:\coding practice\Csharp_Code_Practice\4.Sorting_And_Arrays\Array03\obj\Debug\net5.0\Array03.AssemblyInfo.cs
+D:\coding practice\Csharp_Code_Practice\4.Sorting_And_Arrays\Array03\obj\Debug\net5.0\Array03.csproj.CoreCompileInputs.cache
+D:\coding practice\Csharp_Code_Practice\4.Sorting_And_Arrays\Array03\obj\Debug\net5.0\Array03.dll
+D:\coding practice\Csharp_Code_Practice\4.Sorting_And_Arrays\Array03\obj\Debug\net5.0\refint\Array03.dll
+D:\coding practice\Csharp_Code_Practice\4.Sorting_And_Arrays\Array03\obj\Debug\net5.0\Array03.pdb
+D:\coding practice\Csharp_Code_Practice\4.Sorting_And_Arrays\Array03\obj\Debug\net5.0\Array03.genruntimeconfig.cache
+D:\coding practice\Csharp_Code_Practice\4.Sorting_And_Arrays\Array03\obj\Debug\net5.0\ref\Array03.dll
