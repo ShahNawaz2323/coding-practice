@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BOX | TEXT | Shadow</title>
+    <style>
+        .container{
+            display: flex;
+        }
+        .card{
+            padding: 10px 15px;
+            margin: 10px 15px;
+            /* border: 2px solid red; */
+            background-color: burlywood;
+            /* box-shadow: 10px 12px green; */
+            /* box-shadow: -10px -12px green; */
+            /* box-shadow: -10px -12px 50px green; */
+            /* box-shadow: 10px 12px 50px green; */
+            /* box-shadow: offset-x offset-y blur-radius spread-radius color; */
+            /* box-shadow: -10px -12px 50px 2px green; */
+            box-shadow: inset 5px 5px 15px 10px rgba(4, 248, 25, 0.5);
+        }
+        .card h2{
+            text-shadow: 3px 2px 2px white;
+        }
+        /* #card-1{
+            width: px;
+        } */
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="card" id="card-1">
+            <h2>card-1</h2>
+            <p>This is C# course column this course is started soon.But it does not mean that other courses stops.Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, sit fugit. Facere, nesciunt amet. Quae sit id necessitatibus eaque eos perferendis quibusdam! Placeat reprehenderit dignissimos alias veritatis blanditiis quos et iste sapiente expedita tempora?</p>
+        </div>
+        <div class="card" id="card-2">
+            <h2>card-2</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, sit fugit. Facere, nesciunt amet. Quae sit id necessitatibus eaque eos perferendis quibusdam! Placeat reprehenderit dignissimos alias veritatis blanditiis quos et iste sapiente expedita tempora?</p>
+        </div>
+        <div class="card" id="card-3">
+            <h2>card-3</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, sit fugit. Facere, nesciunt amet. Quae sit id necessitatibus eaque eos perferendis quibusdam! Placeat reprehenderit dignissimos alias veritatis blanditiis quos et iste sapiente expedita tempora?</p>
+        </div>
+    </div>
+</body>
+</html>

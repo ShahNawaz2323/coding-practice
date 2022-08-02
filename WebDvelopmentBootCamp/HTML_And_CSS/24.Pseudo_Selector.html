@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>After | Before | Pseudo Selector</title>
+    <link href="https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap" rel="stylesheet">
+    <style>
+        body{
+            margin: 0;
+            padding: 0;
+            background-color: black;
+            color: white;
+        }
+        header::before{
+              background: url(https://source.unsplash.com/collection/190727/1600x900);
+              content: "";
+              position: absolute;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+              z-index: -1;
+              opacity: 0.5;
+            
+        }
+        .navigation{
+            font-size: 20px;
+            display: flex;
+            /* font-family: 'Mouse Memoirs', sans-serif; */
+        }
+        li{
+            list-style: none;
+            padding: 20px 20px;
+        }
+        /* section::before{
+            content: "This new added content";
+        } */
+        section{
+            /* font-family: sans-serif; */
+            height: 450px;
+            /* border: 2px solid red; */
+            margin: 3px 90px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        h1{
+            font-size: 3rem;
+        }
+        p{
+            text-align: center;
+        }
+
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <ul class = "navigation">
+                <li class="item">Home</li>
+                <li class="item">About</li>
+                <li class="item">Services</li>
+                <li class="item">Contact US</li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h1>Welcome to Coding World!</h1>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laborum tempora optio nam, impedit quae itaque repudiandae atque excepturi quo unde dicta, at ipsam rem dolore harum quidem debitis neque nisi.Aperiam rem a ducimus aut ad quibusdam accusamus incidunt blanditiis iure expedita maxime molestias commodi consectetur.
+        </p>
+    </section>
+    <!-- <hr> -->
+</body>
+</html>
