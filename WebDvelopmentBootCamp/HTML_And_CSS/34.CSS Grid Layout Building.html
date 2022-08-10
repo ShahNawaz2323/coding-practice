@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Grid | Layout Building</title>
+    <style>
+        .container {
+            display: grid;
+            grid-gap: 1rem;
+            grid-template-areas:
+                'navbar navbar navbar navbar'
+                'section section section aside'
+                'footer footer footer footer';
+        }
+
+        .item {
+            background-color: yellow;
+            border: 3px solid black;
+            padding: 10px 20px;
+        }
+
+        #navbar {
+            grid-area: navbar;
+        }
+
+        #section {
+            grid-area: section;
+        }
+
+        #aside {
+            grid-area: aside;
+        }
+
+        footer{
+            grid-area: footer;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div id="navbar" class="item">Home Aobut Contact US</div>
+        <div id="section" class="item">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quod repudiandae temporibus, soluta deserunt inventore quas minima, earum ea quidem id itaque harum reiciendis eum vero, qui doloremque nihil. Quibusdam iusto unde delectus quidem!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione debitis voluptates sequi nostrum fuga voluptate rerum. Eligendi vel quod velit, sit cum quibusdam odit in debitis doloremque, fuga qui consectetur labore corrupti! Corrupti amet laborum, inventore distinctio architecto accusamus id vero itaque et molestiae magnam nesciunt quibusdam repellat quaerat? Dolore porro a iste quo illum voluptas temporibus maiores, et recusandae ad nostrum quis quae dicta. Adipisci minus ipsum debitis libero hic impedit ab, deserunt nostrum doloribus corrupti soluta voluptas harum atque illo mollitia accusantium delectus eligendi suscipit vel deleniti ipsam, magni dolores reprehenderit! Culpa dicta commodi doloremque, beatae illo voluptatem?
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime tempora tempore beatae eos eaque quibusdam magni atque ullam velit quidem, voluptatibus suscipit, consectetur totam quas sunt ipsam modi autem dolorum nulla unde a nostrum minus, nesciunt doloremque. Delectus consectetur nihil distinctio fugit laborum voluptatem magni cupiditate dolorum iure eius. Vitae, veniam. Similique nobis mollitia explicabo, animi incidunt repellat ipsa voluptate, recusandae voluptas quae fugit voluptates? Suscipit, optio architecto? Voluptatem ex eveniet quia dolores corrupti distinctio quo reprehenderit pariatur magnam aliquam quos inventore, repudiandae alias eius mollitia laborum veritatis! Est vel mollitia voluptate non animi accusantium voluptatibus, adipisci perferendis quis. Ullam.
+        </div>
+        <div id="aside" class="item">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate voluptatem porro odit!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias distinctio, dolore, vero illum ab sapiente ullam nobis illo velit quo culpa ex? Quibusdam enim sapiente ullam totam obcaecati sed quaerat veritatis saepe esse hic. Facere suscipit, incidunt ab nesciunt sint doloribus iusto eveniet nulla quas, rerum magnam eaque obcaecati quae odio. Voluptatum quas sequi labore? Ut qui vel, magni facere modi iusto harum et odio distinctio quibusdam ex officia nesciunt consectetur necessitatibus impedit. Ex consectetur explicabo porro atque vero molestias architecto omnis necessitatibus ad optio numquam dolor est voluptates pariatur facere, aspernatur hic dolorem eligendi nulla fuga enim mollitia quae.
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur, blanditiis natus. Perspiciatis neque sunt, praesentium quibusdam consectetur asperiores recusandae! Laborum quaerat eos obcaecati tenetur distinctio eligendi alias provident ad facere cum harum suscipit, aliquam iusto corrupti et debitis dolorem ducimus maiores molestiae? Magnam quam consectetur delectus esse perferendis tempora rem possimus laudantium, blanditiis nemo illo vitae ratione animi consequuntur quisquam dolores atque fuga ullam corporis aperiam ducimus dolorem nobis. Praesentium omnis id consequatur dolores ratione quidem, excepturi accusamus harum reprehenderit voluptas. Sint ea dolore distinctio quibusdam. Minima et incidunt itaque sequi ex odio, hic dicta magni eligendi, deleniti necessitatibus officiis.
+        </div>
+
+        <footer class="item">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur eos sunt facilis!</footer>
+        <!-- <div class="box">item-1</div>
+        <div class="box">item-2</div>
+        <div class="box">item-3</div>
+        <div class="box">item-4</div>
+        <div class="box">item-5</div>
+        <div class="box">item-1</div>
+        <div class="box">item-2</div>
+        <div class="box">item-3</div>
+        <div class="box">item-4</div>
+        <div class="box">item-5</div>
+        <div class="box">item-1</div>
+        <div class="box">item-2</div>
+        <div class="box">item-3</div>
+        <div class="box">item-4</div> -->
+
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Grid | Media Queries</title>
+    <style>
+        .container {
+            display: grid;
+            grid-gap: 1rem;
+            grid-template-areas:
+                'nav nav nav nav'
+                'section section section aside'
+                'footer footer footer footer';
+        }
+
+        @media (max-width: 300px) {
+            body {
+                background-color: red;
+            }
+            .container {
+                grid-template-areas:
+                    'nav nav nav nav'
+                    'section section section section'
+                    'aside aside aside aside'
+                    'footer footer footer footer';
+            }
+            aside{
+                display: none;
+            }
+            span{
+                display: block;
+                text-align: center;
+            }
+        }
+
+        @media (min-width: 300px) and (max-width: 500px) {
+            body {
+                background-color: blue;
+            }
+
+            .container {
+                grid-template-areas:
+                    'nav nav nav nav'
+                    'section section section section'
+                    'aside aside aside aside'
+                    'footer footer footer footer';
+            }
+            span{
+                display: block;
+                text-align: center;
+            }
+        }
+
+        @media (min-width: 501px) and (max-width: 800px) {
+            body {
+                background-color: yellow;
+            }
+        }
+
+        @media (min-width: 801px) {
+            body {
+                background-color: blue;
+            }
+        }
+
+        .container {
+            display: grid;
+            grid-gap: 1rem;
+
+        }
+
+        .bdr {
+            border: 2px solid black;
+            padding: 20px;
+            background-color: wheat;
+        }
+
+        nav {
+            grid-area: nav;
+        }
+
+        section {
+            grid-area: section;
+        }
+
+        aside {
+            grid-area: aside;
+        }
+
+        footer {
+            grid-area: footer;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <nav class="bdr">
+           <span>home</span>  
+           <span> about</span>
+           <span>contact</span>
+        </nav>
+        <section class="bdr">
+            <h2>Learn CSS Sooner</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi rerum libero at corporis esse, impedit enim alias quis blanditiis fuga et incidunt architecto dolor amet unde pariatur itaque repellat nobis eos qui similique. Delectus ducimus officia corporis doloribus ipsum dolorem natus. Nobis dolor consequatur earum dolorum voluptatum. Laboriosam harum mollitia autem error, quas iusto quidem, ea corrupti consequuntur quibusdam sed a, sunt pariatur. Asperiores veniam et, optio ipsam tempora earum cupiditate magnam quae sint accusantium officiis tempore omnis reprehenderit, ipsum quia aut libero expedita deserunt. Eveniet a nam rerum reprehenderit reiciendis, quod sapiente cum provident alias est, aliquid illo pariatur!</p>
+        </section>
+        <aside class="bdr">
+            <h1>More About Us</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem consequuntur rem explicabo temporibus? Delectus possimus ut adipisci obcaecati, eius assumenda veniam quidem molestias aspernatur excepturi animi laboriosam enim sint optio nesciunt suscipit deserunt omnis, sed hic aperiam mollitia a? Culpa itaque, error ipsa laboriosam doloremque labore perspiciatis velit asperiores odio at eaque. Quidem explicabo minus cum est excepturi quis iusto, ipsam delectus, alias ratione harum, ipsa repellendus. Asperiores non excepturi ex ea maiores aut dolorum exercitationem sit eaque voluptatem. Sapiente explicabo libero illo impedit laborum nulla quae quia aspernatur quod eum tenetur atque deserunt, eius, minus sit, culpa dignissimos commodi.</p>
+        </aside>
+    </div>
+    <footer class="bdr">Copy Right Code With Shah</footer>
+</body>
+
+</html>
