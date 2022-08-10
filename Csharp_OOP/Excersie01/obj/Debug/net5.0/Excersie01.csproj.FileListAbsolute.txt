@@ -1,0 +1,16 @@
+D:\coding practice\Csharp_OOP\Excersie01\obj\Debug\net5.0\Excersie01.csproj.AssemblyReference.cache
+D:\coding practice\Csharp_OOP\Excersie01\obj\Debug\net5.0\Excersie01.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\Csharp_OOP\Excersie01\obj\Debug\net5.0\Excersie01.AssemblyInfoInputs.cache
+D:\coding practice\Csharp_OOP\Excersie01\obj\Debug\net5.0\Excersie01.AssemblyInfo.cs
+D:\coding practice\Csharp_OOP\Excersie01\obj\Debug\net5.0\Excersie01.csproj.CoreCompileInputs.cache
+D:\coding practice\Csharp_OOP\Excersie01\bin\Debug\net5.0\Excersie01.exe
+D:\coding practice\Csharp_OOP\Excersie01\bin\Debug\net5.0\Excersie01.deps.json
+D:\coding practice\Csharp_OOP\Excersie01\bin\Debug\net5.0\Excersie01.runtimeconfig.json
+D:\coding practice\Csharp_OOP\Excersie01\bin\Debug\net5.0\Excersie01.runtimeconfig.dev.json
+D:\coding practice\Csharp_OOP\Excersie01\bin\Debug\net5.0\Excersie01.dll
+D:\coding practice\Csharp_OOP\Excersie01\bin\Debug\net5.0\Excersie01.pdb
+D:\coding practice\Csharp_OOP\Excersie01\obj\Debug\net5.0\Excersie01.dll
+D:\coding practice\Csharp_OOP\Excersie01\obj\Debug\net5.0\refint\Excersie01.dll
+D:\coding practice\Csharp_OOP\Excersie01\obj\Debug\net5.0\Excersie01.pdb
+D:\coding practice\Csharp_OOP\Excersie01\obj\Debug\net5.0\Excersie01.genruntimeconfig.cache
+D:\coding practice\Csharp_OOP\Excersie01\obj\Debug\net5.0\ref\Excersie01.dll
