@@ -1,0 +1,16 @@
+D:\coding practice\Csharp_OOP\Exercise04\obj\Debug\net5.0\Exercise04.csproj.AssemblyReference.cache
+D:\coding practice\Csharp_OOP\Exercise04\obj\Debug\net5.0\Exercise04.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding practice\Csharp_OOP\Exercise04\obj\Debug\net5.0\Exercise04.AssemblyInfoInputs.cache
+D:\coding practice\Csharp_OOP\Exercise04\obj\Debug\net5.0\Exercise04.AssemblyInfo.cs
+D:\coding practice\Csharp_OOP\Exercise04\obj\Debug\net5.0\Exercise04.csproj.CoreCompileInputs.cache
+D:\coding practice\Csharp_OOP\Exercise04\bin\Debug\net5.0\Exercise04.exe
+D:\coding practice\Csharp_OOP\Exercise04\bin\Debug\net5.0\Exercise04.deps.json
+D:\coding practice\Csharp_OOP\Exercise04\bin\Debug\net5.0\Exercise04.runtimeconfig.json
+D:\coding practice\Csharp_OOP\Exercise04\bin\Debug\net5.0\Exercise04.runtimeconfig.dev.json
+D:\coding practice\Csharp_OOP\Exercise04\bin\Debug\net5.0\Exercise04.dll
+D:\coding practice\Csharp_OOP\Exercise04\bin\Debug\net5.0\Exercise04.pdb
+D:\coding practice\Csharp_OOP\Exercise04\obj\Debug\net5.0\Exercise04.dll
+D:\coding practice\Csharp_OOP\Exercise04\obj\Debug\net5.0\refint\Exercise04.dll
+D:\coding practice\Csharp_OOP\Exercise04\obj\Debug\net5.0\Exercise04.pdb
+D:\coding practice\Csharp_OOP\Exercise04\obj\Debug\net5.0\Exercise04.genruntimeconfig.cache
+D:\coding practice\Csharp_OOP\Exercise04\obj\Debug\net5.0\ref\Exercise04.dll
