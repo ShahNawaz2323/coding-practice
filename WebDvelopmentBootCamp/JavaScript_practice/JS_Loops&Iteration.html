@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS | Loops | Iterations</title>
+</head>
+<body>
+        <div class="container">This is about loops</div>
+
+    <!-- Scripts -->
+    <script>
+        // let i = 0;
+        // //for_loop
+        // for(i = 0; i<3; i++){
+        //     console.log(i);
+        // }
+        //Mostly used for iterate over arrays.
+       
+        let friends = ["shah", "Harry", "Waleed","Hamza", "Hadi", "Gujjer","Bhatti" ];
+        // for (let i = 0; i < friends.length; i++) {
+        //     console.log("Hello Friend, " + friends[i]);
+        // }
+        //console.log(elements);
+        // friends.forEach(element => {
+        //     console.log("Hello Friend, " + element);
+        // });
+
+        //foreach loop
+        // friends.forEach(function f(element){
+        //     console.log("Hello Friend, " + element + " to modern java script");
+        // });
+
+        //for of loop
+        for (element of friends){
+            console.log("Hello Friend, " + element + " to modern java script");
+        }
+
+        //objects iteration
+        let employee = {
+            name: "Harry",
+            salary: "2",
+            channel: "CWH"
+        }
+
+        // //For (for in loop) loop for iteration of objects
+        // for (key in employee) {
+        //     console.log(`The ${key} of emplyee is ${employee[key]}`);
+        // }
+
+        // for(key in employee){
+        //     console.log(`The ${key} of employee is ${employee[key]}`);
+        // }
+
+        // console.log(employee);
+
+        //while loop in js
+        // let i = 0
+        // while( i < 4)
+        // {
+        //     console.log(`${i} is less than 4`);
+        //     i++;
+        // }
+
+        // do while loop in js
+        let i = 34;
+        do
+        {
+            console.log(`${i} is less than 4 but we are in do while loop`);
+            i++;
+        }while( i < 4);
+
+    </script>
+</body>
+</html>
