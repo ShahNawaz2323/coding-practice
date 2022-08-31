@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS SetTime | setInterval | Clear Timeout</title>
+</head>
+<body>
+    <div class="container">this is the container</div>
+    <p>Time is : <span id="time"></span> </p>
+
+
+    <!-- 
+        SetTimeout  -- Allows to run the fuction once after the interval time
+        setInterval  -- Allows to run the fuction repeatedly after the interval time 
+
+        clearTimeout -- clear the time set by 'setTimeout'
+    -->
+
+    <script>
+        console.log("this is a tutorial for time manipulation in JS");
+        function greet(name , byeText){
+            console.log("Hello Good Morning " + name + ", " + byeText);
+        }
+        // timeOut = setTimeout(greet, 5000, "Shah", "Take care");
+        // console.log(timeOut);
+
+        //clearTimeout(timeOut);
+        //setTimeout(greet, 2000);  //call only function but not use parenthesis
+
+        //setInterval(greet, 1000, "Shah", "have a good day" );
+
+        function displaytime(){
+            time = new Date;
+            document.getElementById('time').innerHTML = time;
+        }
+        setInterval(displaytime, 1000 );
+
+    </script>
+</body>
+</html>
