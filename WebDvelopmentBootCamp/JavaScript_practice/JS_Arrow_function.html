@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS Arrow functions</title>
+</head>
+<body>
+        <div class="container">this arrow fuction tutorial</div>
+
+        <script>
+            // function greet() {
+            //     console.log("Good Morning");
+            // }
+            //Arrow function
+           let greet = () => {
+                console.log("Good Morning");
+            }
+            greet();
+
+            setTimeout(() => {
+                console.log("We are inside setTimeout");
+            }, 3000);
+
+            let sum = (a,b) => {
+                return a+b;
+            }
+            //sum(34,200);
+            //Shortcut of arrow function
+            let sum2 = (a,b) => a+b;
+            //sum2(200,100);
+            
+            //Single argument function 
+            let half = a =>  a/2;
+            half(10);//
+
+            //Empty argument arrow function
+            let greet2 = () => console.log("arrow function");
+
+            //obj function and arrow function
+            let obj1 = {
+                names : ["shah", "waleed", "hamza", "Ustad"],
+                speak(){
+                    this.names.forEach((student)=>{
+                        console.log("kukdoo koo " + student);
+                    });
+                }
+            }
+            let obj2 = {
+                names : ["shah", "waleed", "hamza", "Ustad"],
+                speak(){
+                    this.names.forEach((student)=>{
+                        console.log(student);
+                    });
+                }
+            }
+            let obj3 = {
+                greetings : "Good Morning",
+                names : ["shah", "waleed", "hamza", "Ustad"],
+                speak(){
+                    this.names.forEach((student)=>{
+                    //this.names.forEach(function s (student){
+                        //lexical this, this belong to parent function/object
+                        //but function have it own fuction this binding
+                        console.log(this.greetings +student + "kukdoo koo ");
+                    });
+                }
+            }
+            //calling function inside obj
+            obj1.speak();
+            obj2.speak();
+            obj3.speak();
+        </script>
+</body>
+</html>
