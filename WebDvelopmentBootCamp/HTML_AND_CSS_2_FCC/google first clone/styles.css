@@ -42,3 +42,9 @@ button:first-of-type {
 button::hover {
     cursor: pointer;   
 }
+
+p{
+    font-size: 16px;
+    text-align: center;
+    margin: 100px auto;
+}
