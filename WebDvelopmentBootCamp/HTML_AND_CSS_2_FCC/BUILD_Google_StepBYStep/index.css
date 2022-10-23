@@ -1,0 +1,22 @@
+/* CSS Selectors Lessons */
+body{
+    background-color: aliceblue;
+}
+.main{
+    margin-top: 100px;
+}
+.search-input{
+    width: 400px;
+    display: block;
+}
+.logo-img{
+    width: 300px;
+    display: block;
+    
+}
+/* //inline and block elements */
+/* block gets all the place at horizontal */
+/* Margins */
+/* Lesson 09 / Div Rule the world */
+/* Lesson 10 CSS Classes */
+/* Lesson 11 Aside-Learn margins via flags */
