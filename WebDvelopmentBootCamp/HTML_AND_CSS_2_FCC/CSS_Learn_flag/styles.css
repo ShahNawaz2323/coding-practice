@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+.red{
+    background: rgb(228, 25, 25);
+    height: 100px;
+    /* margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 100px;
+    margin-bottom: 100px; */
+
+}
+.blue{
+    background: blueviolet;
+    height: 100px;
+    margin: 20px 0;
+}
+.green{
+    background: greenyellow;
+    height: 100px;
+}
