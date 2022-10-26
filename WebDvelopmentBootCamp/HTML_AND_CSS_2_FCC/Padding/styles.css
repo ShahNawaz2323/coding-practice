@@ -1,0 +1,20 @@
+.card{
+    color: #222222;
+    background-color: lightgray;
+    width: 300px;
+    margin: 50px auto;
+    padding: 50px;
+}
+/* Assignment */
+.card1{
+    color: #222222;
+    background-color: lightgray;
+    width: 300px;
+    margin: 50px auto;
+    /* padding-top: 100px;
+    padding-right: 100px;
+    padding-bottom: 0;
+    padding-left: 0; */
+    padding: 100px 100px 0 0;
+}
+/* By default div paddings are zero */
