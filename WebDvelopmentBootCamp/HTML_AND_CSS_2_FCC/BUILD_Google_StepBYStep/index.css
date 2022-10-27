@@ -4,6 +4,7 @@ body{
 }
 .main{
     margin-top: 150px;
+    text-align: center;
 }
 .logo-img{
     display: block;
@@ -24,7 +25,7 @@ body{
     border-radius: 24px;    
 }
 .btn{
-    display: block;
+    /* display: block; */
     margin: 30px auto 0px;
     /* margin-left: auto;
     margin-right: auto; */
@@ -45,3 +46,5 @@ body{
 /* Lesson 12: Add Spaces Between our elements */
 /* Lesson 13 Centering with Margins  */
 /* Lesson 14 Centering the logo and search field  */
+/* Lesson 21   Two Block Level button Problem.*/
+/* Lesson 22   Flex Box */
