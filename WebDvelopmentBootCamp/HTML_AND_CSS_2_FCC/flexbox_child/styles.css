@@ -1,0 +1,31 @@
+.pricing{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px;
+}
+div{
+    padding: 10px;
+    margin: 20px;
+}
+h1{
+    text-align: center;
+}
+body{
+    color: rgb(69, 218, 218);
+    background-color: aliceblue;
+}
+button{
+    border: none;
+    color: red;
+    background-color: antiquewhite;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+button:hover{
+    cursor: pointer;
+    color: greenyellow;
+    background-color: oldlace;
+    
+}
