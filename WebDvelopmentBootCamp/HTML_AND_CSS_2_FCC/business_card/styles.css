@@ -1,11 +1,47 @@
 body{
     margin: 20px;
+    background-color: aliceblue;
 }
 .avatar{
-    width: 150px;
+    width: 200px;
+    height: 160px;
+    padding: 5px;
 }
 .card{
-    border: 2px dotted blue;
+    display: flex;
     padding: 20px;
+    justify-content: space-around;
+    /* align-items: center; */
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aquamarine;
     
 }
+button{
+    border: none;
+    color: red;
+    background-color: antiquewhite;
+    margin: 5px;
+    padding-bottom: 7px;
+    padding-top: 9px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+    width: 100%;
+}
+button:hover{
+    cursor: pointer;
+    color: greenyellow;
+    background-color: oldlace;
+    
+}
+/* utility classes */
+.italic{
+    font-style: italic;
+}
+.blue{
+    border: 2px solid blue;
+}
+
+/*flexbox column affect the direct child of seleted elements.*/
