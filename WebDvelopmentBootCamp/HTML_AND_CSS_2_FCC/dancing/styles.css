@@ -1,3 +1,17 @@
+/* CSS Inheritance help us to write less code and  drayer code ,which is reuseable als0. */
 body{
     margin: 10px;
+    /* inherited by the nested elements */
+    text-align: center; 
+    font-size: large;
+    background-color: aliceblue;
 }
+/* h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+} */
