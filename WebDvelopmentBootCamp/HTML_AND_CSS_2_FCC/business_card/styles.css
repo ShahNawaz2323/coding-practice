@@ -2,6 +2,7 @@ body{
     margin: 20px;
     background-color: aliceblue;
     text-align: center;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
 }
 .avatar{
     width: 200px;

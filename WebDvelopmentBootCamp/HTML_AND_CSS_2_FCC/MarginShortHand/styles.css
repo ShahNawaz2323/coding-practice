@@ -1,0 +1,12 @@
+.red{
+    height: 150px;
+    width: 150px;
+    background-color: #BC002D;
+    border-radius: 100%;
+    /* margin-top: 40px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 100px; */
+
+    margin: 40px auto 100px;
+}
