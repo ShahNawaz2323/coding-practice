@@ -2,4 +2,18 @@ body{
     color: white;
     background-image: url("images/universe.jpg");
     background-size: cover;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+.btn{
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: white;
+    border: none;
+    /* font-family: 'Orbitron', sans-serif; */
+    font-family: inherit;
+}
+.underline{
+    /* text-decoration: underline; */
+    border-bottom: 4px solid white;
 }
