@@ -1,12 +1,21 @@
 body{
-    color: white;
-    background-image: url("https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif");
-    background-size: cover;
+    color: #82a5ca;
     text-align: center;
     font-family: 'Orbitron', sans-serif;
+    margin: 0;
+}
+.hero{
+    background-image: url("https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif");
+    padding: 15px 0 50px 0;
+    background-size: cover;
+    background-position: center;
+    
+}
+h3{
+    font-weight: bold;
 }
 #logo{
-    width: 100px;
+    width: 120px;
 }
 .btn{
     padding: 10px 20px;
@@ -15,6 +24,8 @@ body{
     border: none;
     /* font-family: 'Orbitron', sans-serif; */
     font-family: inherit;
+    color: #82a5ca;
+    font-weight: bold;
 }
 #underline{
     /* text-decoration: underline; */
