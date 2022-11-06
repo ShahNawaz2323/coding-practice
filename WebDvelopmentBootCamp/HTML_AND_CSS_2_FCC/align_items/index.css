@@ -1,0 +1,21 @@
+
+.container{
+    border: 8px solid #016a26;
+    height: 400px;
+    /* flex default is the rew */
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    /* flexdirection */
+    flex-direction: column;
+
+}
+.item{
+    width: 60px;
+    /* height: 60px; */
+    margin: 2px;
+    padding: 10px;
+    font-size: 50px;
+    border: 2px solid black;
+    background: linear-gradient(#14463d, #016a26);
+}
