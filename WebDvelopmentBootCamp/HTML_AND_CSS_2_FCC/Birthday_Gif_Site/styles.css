@@ -2,6 +2,7 @@ body{
     font-family: 'Happy Monkey', sans-serif;
     /* background-color: #a2d2ff; */
     background-color: blueviolet;
+    text-align: center;
     color: #ffffff;
     /* display: flex;
     flex-direction: column;
@@ -22,6 +23,7 @@ body{
     background: #EFB0c9;
     border-radius: 5px;
     padding: 5px 10px;
+    margin: 5px 0 10px 0;
 }
 #bday-date{
     margin: 0%;
@@ -35,4 +37,40 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+
+
+/* First Gift Section */
+.gift-section{
+    margin-top: 50px;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; */
+}
+.gift-title{
+    margin-bottom: 10px;
+}
+.gift-hint{
+    margin-top: 0px;
+}
+.gift-image{
+    background: url("images/gift-cover.jpg");
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    border: 6px solid white;
+    border-radius: 10px;
+}
+.gift-image:hover{
+    background: url("images/happy.gif");
+}
+
+
+/* Second Gift Section */
+/* Same stylying as above except one */
+.gift-image2:hover{
+    background: url("images/hot.gif");
+    background-size: cover;
 }
