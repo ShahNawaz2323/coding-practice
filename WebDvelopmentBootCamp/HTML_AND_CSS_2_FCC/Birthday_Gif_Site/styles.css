@@ -74,3 +74,11 @@ body{
     background: url("images/hot.gif");
     background-size: cover;
 }
+.gift-image3:hover{
+    background: url("images/genius.gif");
+    background-size: cover;
+}
+.gift-image4:hover{
+    background: url("images/badass.gif");
+    background-size: cover;
+}
